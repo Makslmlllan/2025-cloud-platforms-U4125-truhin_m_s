@@ -64,12 +64,11 @@ Overview of Google Cloud and basic services
 - Machine type: e2-micro
 - Provisioning model: Spot
 
-<img width="1710" height="1107" alt="Снимок экрана 2026-05-04 в 18 26 15" src="https://github.com/user-attachments/assets/2332b419-9e24-403f-9c89-3364f7ac1610" />
 
 Шаг 4. Подключение к виртуальной машине
 
 Подключение к VM было выполнено через SSH-интерфейс Google Cloud.
-<img width="1710" height="1107" alt="Снимок экрана 2026-05-04 в 18 28 19" src="https://github.com/user-attachments/assets/f9322305-ff3f-4c13-a774-e36671f94912" />
+
 
 Шаг 5. Работа с Cloud Storage
 
@@ -82,7 +81,6 @@ gsutil ls gs://lab1-bucket-itmo
 Была создана локальная директория
 Файлы были скопированы
 
-<img width="1710" height="1107" alt="Снимок экрана 2026-05-04 в 18 29 55" src="https://github.com/user-attachments/assets/8d5b9f9b-2501-4b09-be20-f7d25e93f22b" />
 
 Шаг 6. Проверка используемого 
 
@@ -92,14 +90,7 @@ gsutil ls gs://lab1-bucket-itmo
 Шаг 7. Изменение ролей доступа
 Storage Admin → Compute Viewer
 
-<img width="1710" height="1107" alt="Снимок экрана 2026-05-04 в 18 32 14" src="https://github.com/user-attachments/assets/b345e905-3f65-47c5-992a-102ddd0bc018" />
 Шаг 8. Очистка ресурсов
-
-<img width="1710" height="1107" alt="Снимок экрана 2026-05-04 в 18 26 15" src="https://github.com/user-attachments/assets/5f6ccf7b-1ccb-45ad-a518-040e1cd7f277" />
-
-
-
-<img width="1710" height="1107" alt="Снимок экрана 2026-05-04 в 18 33 55" src="https://github.com/user-attachments/assets/30a86c8b-d026-4915-87e4-41e95a06e65b" />
 
 После завершения работы:
 
